@@ -1,5 +1,5 @@
 #### Incremental-Topo
-This is our project folder for *Incrementally Building Topology Graphs via Distance Maps* that has been accepted by RCAR2019.
+This is our project folder for ***Incrementally Building Topology Graphs via Distance Maps*** that has been accepted by RCAR2019.
 
 
 ##### How to use it:
