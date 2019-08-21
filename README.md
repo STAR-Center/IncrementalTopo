@@ -5,5 +5,13 @@
 This is our project folder for ***Incrementally Building Topology Graphs via Distance Maps***. More detail and bibtex will be available later.
 
 ### How to use it:
-	run.py #used to generate dist-based result
-	ITOPO_offline.py #used to provide incremental result
+
+#### For distance map topomap:
+```
+python run.py#note that you need to change the path to ./test_im/xxx/clean.png
+```
+
+#### For incremental topomap:
+```
+python ITOPO_offline.py #used the provided rosbag in ./bag
+```
