@@ -87,7 +87,7 @@ def feed_input():
     global gp_com_msg
 
     # reading dataset(bag file)
-    file_name = '/home/yijun/Documents/increment-gp-topo/catkin_ws/src/incremental_gp_topo/data_set/stdr/stdr_data.bag'
+    file_name = './bag/stdr_data.bag'
     bag = rosbag.Bag(file_name)
 
     # We want to get scan and pose, so we should do mapping after 2 iterations.
