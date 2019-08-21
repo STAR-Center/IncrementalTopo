@@ -11,7 +11,7 @@ from scipy.misc import imsave
 if __name__ == '__main__':
     print 'Im to Skeleton...'
 #intel, office
-    im_folder = ["./test_im/intel","./test_im/office","./test_im/a_scan","./frames"][3]
+    im_folder = ["./test_im/intel","./test_im/office","./test_im/a_scan","./frames"][0]
     gray1, gau1, skeleton = im2skeleton(im_folder+'/clean.png')
     graph = skeleton2topoMap(skeleton)
     fig = plt.figure(frameon=False)
