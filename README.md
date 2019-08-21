@@ -2,7 +2,7 @@
 
 **Yuan, Y. & Schwertfeger, S.** (2019). Incrementally Building Topology Graphs via Distance Maps. In 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR). IEEE. 
 
-This is our project folder for ***Incrementally Building Topology Graphs via Distance Maps***. More detail and bibtex will be available later.
+This is our project folder for ***Incrementally Building Topology Graphs via Distance Maps***.
 
 ### How to use it:
 
