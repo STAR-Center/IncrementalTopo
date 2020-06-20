@@ -4,6 +4,8 @@
 
 This is our project folder for ***Incrementally Building Topology Graphs via Distance Maps***.
 
+![](https://jarrome.github.io/files/incrementalTopo.gif?raw=true)
+
 ### How to use it:
 
 #### For distance map topomap:
